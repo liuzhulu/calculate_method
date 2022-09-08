@@ -1,2 +1,2 @@
 # calculate_method
-this is a test. haha
+There is the report of homework of Xian Jiaotong University.
